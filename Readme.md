@@ -6,7 +6,6 @@ Datasets
 
 data/CARS-AMP_train.csv and data/CARS-AMP_test.csv: The anti-Staphylococcus aureus AMP dataset created by Guan et al. used in this study. The dataset is split into training and test sets in a 9:1 ratio, as originally defined. During training, we randomly selected 10% of the training data as a validation set for early stopping.
 
-esm2_fea_CARS-AMP/: Pre-computed ESM-2 (esm2_t33_650M_UR50D) features for all peptide sequences in the dataset.
 
 Model
 
